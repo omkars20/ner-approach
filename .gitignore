@@ -26,5 +26,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-
+*.ner_model
 ner.csv
