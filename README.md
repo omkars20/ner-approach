@@ -47,6 +47,7 @@ Unique Aspects:
 Uses SpaCy's pre-trained models and NER pipeline.
 Simplifies adding new labels and fine-tuning.
 Focuses on rule-based and statistical models for NER.
+
 3. Classical Machine Learning Approaches (CRFs)
 Steps:
 
@@ -61,6 +62,7 @@ Unique Aspects:
 Involves hand-crafted feature extraction.
 Uses classical machine learning algorithms like CRFs.
 Requires more manual effort in feature engineering compared to deep learning approaches.
+
 4. Custom Deep Learning Model
 Steps:
 
