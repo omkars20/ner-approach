@@ -25,5 +25,6 @@ venv/
 # Ignore system files
 .DS_Store
 Thumbs.db
+# Ignore ner_model folder
 ner_model/
 ner.csv
