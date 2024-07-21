@@ -1,0 +1,30 @@
+# Logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Models and binary files
+*.h5
+*.keras
+
+# Results and output files
+results/
+
+# Virtual environment
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+
+ner.csv
